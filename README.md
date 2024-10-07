@@ -1,21 +1,5 @@
-# Data Diri
+# praktek-nextjs
 
-|  |  |
-|--|--|
-| NIM | 21104410097 |
-| Nama Lengkap | Ramadhan ilham Nugroho |
-| Kelas | TI-5B |
-| Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/fariedrahmat) |
-| Mata Kuliah | Pemrograman API |
+Repositori untuk praktek Matakuliah Pemograman API Kelas 5A dan 5B dengan Spesifikasi Standart NextJS versi 14.0.3 
 
-# PEMROGRMAN API
-### Next-Js
-|  |  |  |
-|--|--|--|
-|No| Bab | Detail |
-| 1 | Latihan 1 | Next Js App Router |
-
-
-
-
-| Next-Js - Praktikum Pemrograman API |
+Silahkan gunakan perintah git clone untuk melakukan clone repo ini ke Komputer Anda 
